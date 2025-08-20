@@ -22,9 +22,7 @@ repository               : "rakeshnadig/rakeshnadig.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Rakesh Nadig"
-  pronouns         : # example: "she/her"  
+  avatar           : "profile.png" 
   bio              : "Doctoral Researcher at ETH Zurich"
   location         : "Zürich, Switzerland"
   employer         : "ETH Zürich"
