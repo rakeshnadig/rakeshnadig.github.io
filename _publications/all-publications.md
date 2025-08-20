@@ -1,10 +1,7 @@
 ---
 collection: publications
 permalink: /publication/
-layout: default
 ---
-
-# All Publications
 
 ## Paper Title Number 1
 - **Date:** 2009-10-01
