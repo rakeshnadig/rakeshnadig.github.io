@@ -45,9 +45,7 @@ author:
   twitter          : "rakeshnadig2404"
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category: 
-  conferences:
-    title: 'Conference Papers'
+publication_category:
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
